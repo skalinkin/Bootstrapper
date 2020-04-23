@@ -1,2 +1,3 @@
 language: csharp
 solution: Bootstrapper.sln
+os: windows
